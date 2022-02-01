@@ -1,4 +1,5 @@
 # Social Network API <br/><br/>
+I was tasked with engineering a back-end from scratch. Specifically, I created an API for a Mongoose/MongoDB/Express social media application. <br/><br/>
 # User Story <br/><br/>
 * AS A social media startup<br/>
 * I WANT an API for my social network that uses a NoSQL database<br/>
