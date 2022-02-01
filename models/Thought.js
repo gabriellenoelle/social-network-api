@@ -25,3 +25,6 @@ const ThoughtSchema = new Schema({
     child: reactionSchema,
   },
 });
+
+const Thought = model("Thought", ThoughtSchema);
+module.exports = Thought;
